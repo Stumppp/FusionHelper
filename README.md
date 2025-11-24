@@ -10,3 +10,6 @@ managers
 room joining                            
                                        
 deadline - today
+
+# Step 1
+import photon fusion
