@@ -12,4 +12,4 @@ room joining
 deadline - today
 
 # Step 1
-import photon fusion
+import Photon Fusion into your project
